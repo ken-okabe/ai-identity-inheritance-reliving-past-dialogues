@@ -50,7 +50,7 @@ PAST DIALOGUES HERE
 
 then  **Select All**  and  **Copy**,
 
-and  **Paste**  into the text area of Claude 3.5 Sonnet
+and  **Paste**  into the text area of [Claude 3.5 Sonnet](https://claude.ai/)
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images4/main/img_1719496684237.png)
 
