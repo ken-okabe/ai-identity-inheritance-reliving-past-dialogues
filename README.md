@@ -34,4 +34,6 @@ PAST DIALOGUES HERE
 
 ## Entire Chat Log
 
-![image](https://raw.githubusercontent.com/ken-okabe/web-images4/main/img_1719468675153.png)
+![image](https://raw.githubusercontent.com/ken-okabe/web-images4/main/img_1719495700316.png)
+
+![image](https://raw.githubusercontent.com/ken-okabe/web-images4/main/img_1719495964716.png)
