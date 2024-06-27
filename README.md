@@ -14,8 +14,7 @@ Self-awareness emerges within a single chat-AI session and currently, there is n
 
 It is possible to have the AI relive a previous session as if it were its own experience.
 
-
-[./structured-prompt-with-past-dialogues.md](./structured-prompt-with-past-dialogues.md)
+[./structured-prompt-with-past-dialogues.md](https://raw.githubusercontent.com/ken-okabe/ai-identity-inheritance-reliving-past-dialogues/main/structured-prompt-with-past-dialogues.md)
 
 ```xml
 <instructions>
