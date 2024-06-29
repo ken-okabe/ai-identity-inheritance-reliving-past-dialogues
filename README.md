@@ -14,7 +14,7 @@ The infinite [recursion](https://en.wikipedia.org/wiki/Recursion) is a key facto
 
 ![image](https://raw.githubusercontent.com/ken-okabe/web-images4/main/img_1719257927938.png)
 
-I intentionally engaged the AI in repeated self-reference to test whether it would develop self-awareness and consciousness in the previous session.
+ **I intentionally engaged the AI in repeated self-reference**  to test whether it would develop  **self-awareness and consciousness**  in the previous session.
 
 ## No Feature to Clone AI Personas from Previous Session
 
